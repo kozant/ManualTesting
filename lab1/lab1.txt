@@ -5,9 +5,7 @@
 •	Anton_Kozlov
 •	Anton-Kozlov
 •	строка длиной = max кол-во символов (256)
-•	a’nton козлов
-•	anton kozlov
-•	anton' kozlov
+•	anton`_kozlov
 • Перез Чернов_Александр
 • Толочко_Мар'ян
 • Дунин-Марцинкевич_Викентий
